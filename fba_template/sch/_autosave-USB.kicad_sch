@@ -1,0 +1,18 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 7d52c0e0-4cf1-4e03-94af-d2fb36e05e92)
+
+  (paper "A3")
+
+  (title_block
+    (title "ATCA Template")
+    (date "2022-08-28")
+    (rev "1.0")
+    (company "Karlsruhe Institute of Technology (KIT)")
+    (comment 1 "Carsten Schmerbeck")
+  )
+
+  (lib_symbols
+  )
+
+)
